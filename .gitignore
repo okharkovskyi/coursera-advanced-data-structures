@@ -5,6 +5,9 @@
 target/
 .idea/
 
+#IntelliJ IDEA
+*.iml
+
 # Package Files #
 *.jar
 *.war
